@@ -67,4 +67,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/Ankur480/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Ankur480/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ankur480/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Ankur480/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Ankur480/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Ankur480/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 <!---LeetCode Topics End-->
