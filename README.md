@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Ankur480/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ankur480/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0162-find-peak-element](https://github.com/Ankur480/Leetcode/tree/main/0162-find-peak-element/) | Medium |
+| [0198-house-robber](https://github.com/Ankur480/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Ankur480/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0455-assign-cookies](https://github.com/Ankur480/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0704-binary-search](https://github.com/Ankur480/Leetcode/tree/main/0704-binary-search/) | Easy |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ankur480/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0198-house-robber](https://github.com/Ankur480/Leetcode/tree/main/0198-house-robber/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
