@@ -6,14 +6,14 @@ class Solution {
         }
         List<int[]> FrequencyStore = new ArrayList<>();
         for(Map.Entry<Integer, Integer> x: FrequencyCounter.entrySet()) {
-        		FrequencyStore.add(new int[] {x.getKey(),x.getValue()});
+        		FrequencyStore.add(new int[] {x.getValue(),x.getKey()});
         }
         
-        FrequencyStore.sort((a,b) -> b[1] - a[1]);
+        FrequencyStore.sort((a,b) -> b[0] - a[0]);
         
         int[] OutPutArray = new int[k];
         for(int i=0;i<k;++i) {
-        		OutPutArray[i] = FrequencyStore.get(i)[0];
+        		OutPutArray[i] = FrequencyStore.get(i)[1];
         		
         }
         
