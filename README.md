@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0175-combine-two-tables](https://github.com/Ankur480/Leetcode/tree/main/0175-combine-two-tables/) | Easy |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Ankur480/Leetcode/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/Ankur480/Leetcode/tree/main/0577-employee-bonus/) | Easy |
 | [0595-big-countries](https://github.com/Ankur480/Leetcode/tree/main/0595-big-countries/) | Easy |
