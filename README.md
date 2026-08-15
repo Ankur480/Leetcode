@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Ankur480/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/Ankur480/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0125-valid-palindrome](https://github.com/Ankur480/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Ankur480/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/Ankur480/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0225-implement-stack-using-queues](https://github.com/Ankur480/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0735-asteroid-collision](https://github.com/Ankur480/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 ## Design
@@ -102,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Ankur480/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ankur480/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/Ankur480/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Ankur480/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
@@ -147,4 +150,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Ankur480/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/Ankur480/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 <!---LeetCode Topics End-->
