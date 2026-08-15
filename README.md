@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Ankur480/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Ankur480/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Ankur480/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ankur480/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Ankur480/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Ankur480/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -137,5 +139,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Ankur480/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/Ankur480/Leetcode/tree/main/0007-reverse-integer/) | Medium |
 <!---LeetCode Topics End-->
