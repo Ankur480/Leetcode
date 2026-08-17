@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/Ankur480/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ankur480/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Ankur480/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
+| [1563-stone-game-v](https://github.com/Ankur480/Leetcode/tree/main/1563-stone-game-v/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ankur480/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/Ankur480/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Ankur480/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
+| [1563-stone-game-v](https://github.com/Ankur480/Leetcode/tree/main/1563-stone-game-v/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -146,9 +148,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Ankur480/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/Ankur480/Leetcode/tree/main/0007-reverse-integer/) | Medium |
+| [1563-stone-game-v](https://github.com/Ankur480/Leetcode/tree/main/1563-stone-game-v/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Ankur480/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Ankur480/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1563-stone-game-v](https://github.com/Ankur480/Leetcode/tree/main/1563-stone-game-v/) | Hard |
 <!---LeetCode Topics End-->
