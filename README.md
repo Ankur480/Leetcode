@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ankur480/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Ankur480/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [1563-stone-game-v](https://github.com/Ankur480/Leetcode/tree/main/1563-stone-game-v/) | Hard |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Ankur480/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/Ankur480/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ankur480/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Ankur480/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Ankur480/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
