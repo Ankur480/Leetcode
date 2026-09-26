@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Ankur480/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0004-median-of-two-sorted-arrays](https://github.com/Ankur480/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/Ankur480/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0035-search-insert-position](https://github.com/Ankur480/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0056-merge-intervals](https://github.com/Ankur480/Leetcode/tree/main/0056-merge-intervals/) | Medium |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Ankur480/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/Ankur480/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0162-find-peak-element](https://github.com/Ankur480/Leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0704-binary-search](https://github.com/Ankur480/Leetcode/tree/main/0704-binary-search/) | Easy |
@@ -120,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Ankur480/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Ankur480/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
